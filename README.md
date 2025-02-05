@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://kyawyelwin.com)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/kyaw-ye-lwin/)
-[<img src="https://img.shields.io/youtube/channel/views/:focforyou" />](https://www.youtube.com/@focforyou)
+[<img src="https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@focforyou)
 
 </p>
